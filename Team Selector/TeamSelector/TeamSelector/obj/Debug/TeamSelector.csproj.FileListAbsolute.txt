@@ -1,0 +1,18 @@
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\bin\Debug\TeamSelector.exe.config
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\bin\Debug\TeamSelector.exe
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\bin\Debug\TeamSelector.pdb
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\obj\Debug\TeamSelector.csprojResolveAssemblyReference.cache
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\obj\Debug\TeamSelector.Form1.resources
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\obj\Debug\TeamSelector.Properties.Resources.resources
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\obj\Debug\TeamSelector.csproj.GenerateResource.Cache
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\obj\Debug\TeamSelector.exe
+c:\users\lu\documents\visual studio 2013\Projects\TeamSelector\TeamSelector\obj\Debug\TeamSelector.pdb
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\bin\Debug\TeamSelector.exe.config
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\obj\Debug\TeamSelector.exe
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\obj\Debug\TeamSelector.pdb
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\bin\Debug\TeamSelector.exe
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\bin\Debug\TeamSelector.pdb
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\obj\Debug\TeamSelector.csprojResolveAssemblyReference.cache
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\obj\Debug\TeamSelector.Form1.resources
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\obj\Debug\TeamSelector.Properties.Resources.resources
+C:\Users\Lu\Documents\Visual Studio 2013\Projects\New folder\TeamSelector\TeamSelector\obj\Debug\TeamSelector.csproj.GenerateResource.Cache
